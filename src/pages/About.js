@@ -10,7 +10,7 @@ class About extends Component {
         <div class="row">
             <div class="col-sm">
                 <div class="row-sm">
-                    <img src="/images/silly_grif.jpg"/>
+                    <img src="/react-portfolio/images/silly_grif.jpg"/>
                     <p>GitHub: <a href="https://github.com/gmpaier">gmpaier</a></p>
                     <p>LinkedIn: <a href="https://www.linkedin.com/in/griffin-paier-8756551bb/">Griffin Paier</a> </p>
                 </div>
