@@ -11,7 +11,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://gmpaier.github.io/react-portfolio",
+  "homepage": "https://gmpaier.github.io/react-portfolio/#",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
