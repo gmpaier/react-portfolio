@@ -13,10 +13,11 @@ class About extends Component {
                     <img src="https://gmpaier.github.io/react-portfolio/images/silly_grif.jpg"/>
                     <p>GitHub: <a href="https://github.com/gmpaier">gmpaier</a></p>
                     <p>LinkedIn: <a href="https://www.linkedin.com/in/griffin-paier-8756551bb/">Griffin Paier</a> </p>
+                    <p>Email: <a href="mailto:gmpaier@loyola.edu">gmpaier@loyola.edu</a></p>
                 </div>
             </div>
             <div class="col-sm">
-                <section>My name is Griffin Paier. I am 25 years old and I live in Orange, CT. I have a degree in Economics from Loyola University Maryland. Currently, I am enrolled in a web development bootcamp in order to improve my programming skills. In my free time, I enjoy reading philosophy, recording music, and playing games. </section>
+                <section>My name is Griffin Paier. I am a 25 years old Junior Data Analyst and I live in Orange, CT. I have a degree in Economics from Loyola University Maryland and recently completed a Bootcamp in Full Stack Web Development from UConn. In my free time, I enjoy reading philosophy, recording music, and playing games. </section>
             </div>
         </div>
     </article>    
